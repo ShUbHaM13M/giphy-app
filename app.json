@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "bold-pretzels",
+    "slug": "snack-794c156a-d8d4-479b-abbe-db26ca4df31d",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.shubham13.giphy"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.shubham13.giphy"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
